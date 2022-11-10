@@ -2,9 +2,8 @@
 layout: default
 ---
 
-![Poster](assets/Poster_pdf.pdf)
-
-Download [Poster](assets/Poster_pdf.pdf).
+![Poster](assets/poster-png.png)
+Download [Poster](assets/poster-pdf.pdf).
 
 
 ## Usage
