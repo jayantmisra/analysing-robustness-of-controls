@@ -12,7 +12,7 @@ Download [Abstract](assets/abstract-pdf.pdf).
 
 ## Poster
 ![Poster](assets/poster-png.png)
-Download [Poster](assets/poster-pdf.pdf).
+Download [Poster](assets/poster-pdf.pdf)(A1).
 
 
 ## Contents of the Poster
