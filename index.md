@@ -6,13 +6,13 @@ layout: default
 View on [GitHub](https://github.com/jayantmisra/analysing-robustness-of-controls).
 
 ## Abstract
-
+> Decoherence arising from unwanted interactions of a quantum system with environment present a particular challenge for NISQ devices. There are two popular ways to achieve fault tolerance: Quantum Error Correction algorithms and Robust Quantum Control solutions. This project was based on research in Robust Quantum Control. The aim of this project was to investigate the robustness of 100 controllers from a dataset of controllers found via gradient-based optimal quantum control for information transfer in spin-1/2 XX rings. We analyzed the correlation between the average transfer fidelity error and the average log-sensitivity of the controllers with respect to structured perturbations. Further, we chose some controllers with interesting properties (such as high/low transfer fidelity or high/low log-sensitivity) and analyzed the structure of their spin rings by calculating the log-sensitivity for each spin and coupling individually. The spearman results from the data demonstrated some correlation between transfer fidelity error and log-sensitivity of the controllers. We observed that some controllers with a bit lower fidelity are more robust than very high-fidelity controllers and the couplings involved in the information transfer are highly sensitive to noise. However, in some cases, couplings opposite to couplings involved in the transfer are also found to be very sensitive.
 Download [Abstract](assets/abstract-pdf.pdf).
 
 
 ## Poster
 ![Poster](assets/poster-png.png)
-Download [Poster](assets/poster-pdf.pdf)(A1).
+Download [Poster](assets/poster-pdf.pdf)[A1].
 
 
 ## Contents of the Poster
@@ -31,8 +31,6 @@ The aim of this project is to investigate the robustness of the controls schemes
 - For the next part, we analysed the structure of the spin rings by calculating the log-sensitivity of the fidelity curve for each spin and coupling individually w.r.t. structured perturbation for delta(0 - 0.1).
 
 ### Results
-
-#### More Results [Not Included in the Poster]
 
 ### Conclusion
 - The Spearman Correlation coefficient for our data ranges from 0.26 to 0.87 which demonstrates that there is some statistical dependence between transfer fidelity and log-sensitivity. 
