@@ -22,7 +22,3 @@ Download [Poster](assets/poster-pdf.pdf).
 ### Results
 ### Conclusion
 ### References
-
-
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
