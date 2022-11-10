@@ -2,9 +2,8 @@
 layout: default
 ---
 # Analysing the Robustness of Controllers for Information Transfer in Quantum Spin-1/2 Networks
-'''
-This is the work I completed as a part of my Summer Research Internship in Quantum Control at Cardiff University.
-'''
+> This is the work I completed as a part of my Summer Research Internship in Quantum Control at Cardiff University.
+
 
 ## Abstract
 
