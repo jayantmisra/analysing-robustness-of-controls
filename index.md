@@ -41,7 +41,7 @@ The aim of this project is to investigate the robustness of the controls schemes
 - There are also some cases where the couplings opposite to the couplings which are involved in transfer have high log-sensitivity. 
 
 ### References
-[1] FC Langbein, SG Schirmer, EA Jonckheere. Energy Landscape Control Robustness Dataset. (In preparation). 
-[2] F. C. Langbein, S. Schirmer and E. Jonckheere, "Time optimal information transfer in spintronics networks," 2015 54th IEEE Conference on Decision and Control (CDC), 2015, pp. 6454-6459, doi: 10.1109/CDC.2015.7403236.
-[3] Shermer, Sophie & Jonckheere, Edmond & O'Neil, Sean & Langbein, Frank. (2018). Robustness of energy landscape control for spin networks under decoherence.
-[4] Khalid, Irtaza and Weidner, Carrie A. and Jonckheere, Edmond A. and Shermer, Sophie G. and Langbein, Frank C. “Statistically Characterising Robustness and Fidelity of Quantum Controls and Quantum Control Algorithms”. https://arxiv.org/abs/2207.07801
+> [1] FC Langbein, SG Schirmer, EA Jonckheere. Energy Landscape Control Robustness Dataset. (In preparation). 
+> [2] F. C. Langbein, S. Schirmer and E. Jonckheere, "Time optimal information transfer in spintronics networks," 2015 54th IEEE Conference on Decision and Control (CDC), 2015, pp. 6454-6459, doi: 10.1109/CDC.2015.7403236.
+> [3] Shermer, Sophie & Jonckheere, Edmond & O'Neil, Sean & Langbein, Frank. (2018). Robustness of energy landscape control for spin networks under decoherence.
+> [4] Khalid, Irtaza and Weidner, Carrie A. and Jonckheere, Edmond A. and Shermer, Sophie G. and Langbein, Frank C. “Statistically Characterising Robustness and Fidelity of Quantum Controls and Quantum Control Algorithms”. https://arxiv.org/abs/2207.07801
