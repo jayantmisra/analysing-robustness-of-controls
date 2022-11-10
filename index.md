@@ -3,11 +3,11 @@ layout: default
 ---
 # Analysing the Robustness of Controllers for Information Transfer in Quantum Spin-1/2 Networks
 > This is the work I completed as a part of my Summer Research Internship in Quantum Control at Cardiff University. The project was supervised by Dr Frank C Langbein.
-View on [GitHub](https://github.com/jayantmisra/analysing-robustness-of-controls).
+> View on [GitHub](https://github.com/jayantmisra/analysing-robustness-of-controls).
 
 ## Abstract
 > Decoherence arising from unwanted interactions of a quantum system with environment present a particular challenge for NISQ devices. There are two popular ways to achieve fault tolerance: Quantum Error Correction algorithms and Robust Quantum Control solutions. This project was based on research in Robust Quantum Control. The aim of this project was to investigate the robustness of 100 controllers from a dataset of controllers found via gradient-based optimal quantum control for information transfer in spin-1/2 XX rings. We analyzed the correlation between the average transfer fidelity error and the average log-sensitivity of the controllers with respect to structured perturbations. Further, we chose some controllers with interesting properties (such as high/low transfer fidelity or high/low log-sensitivity) and analyzed the structure of their spin rings by calculating the log-sensitivity for each spin and coupling individually. The spearman results from the data demonstrated some correlation between transfer fidelity error and log-sensitivity of the controllers. We observed that some controllers with a bit lower fidelity are more robust than very high-fidelity controllers and the couplings involved in the information transfer are highly sensitive to noise. However, in some cases, couplings opposite to couplings involved in the transfer are also found to be very sensitive.
-Download [Abstract](assets/abstract-pdf.pdf).
+> Download [Abstract](assets/abstract-pdf.pdf).
 
 
 ## Poster
@@ -19,7 +19,6 @@ Download [Abstract](assets/abstract-pdf.pdf).
 
 ### Background
 > Quantum technologies have very promising applications in networking, simulation, sensing and computing. However, decoherence, arising from unwanted interactions of a device with environment, and fabrication and control signal uncertainties present a particular challenge for Noisy Intermediate Scale Quantum devices. There are two popular ways to mitigate noise and errors and achieve fault tolerance: Error correction/mitigation algorithms and Robust Quantum Control solutions. Error Correction algorithms and Quantum Control solutions are two complementary approaches used to tackle the problem of noise in Quantum technologies.
-
 > Quantum Control deals with the study of how the classical world interacts with quantum systems and optimization of these quantum systems to enable useful performance in information processing, sensing and metrology. In this project we work on analysing robust quantum controllers for information transfer in quantum spin-1/2 networks.
 
 ### Aim
