@@ -15,4 +15,4 @@ theme: minima
 
 exclude: ["README.md"]
 sass:
-  style: compressed
+  style: expanded
