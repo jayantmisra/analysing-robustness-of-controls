@@ -2,7 +2,8 @@
 layout: default
 ---
 # Analysing the Robustness of Controllers for Information Transfer in Quantum Spin-1/2 Networks
-> This is the work I completed as a part of my Summer Research Internship in Quantum Control at Cardiff University. The project was supervised by Dr Frank C Langbein.
+> This is the work I completed as a part of my Summer Research Internship in Quantum Control at Cardiff University. <br>
+> The project was supervised by Dr Frank C Langbein.
 
 <!-- > View on [GitHub](https://github.com/jayantmisra/analysing-robustness-of-controls). -->
 
