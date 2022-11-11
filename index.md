@@ -37,17 +37,16 @@ layout: default
 ### Results
 > In the project, we looked through spin rings of size 5 and 6, considering the transfer of information from spin 1 to 2,3 (for 5-spins) and spin 1 to 1,2,3 (for 6-spins). Following plots show the statistical dependence of the transfer fidelity and log sensitivity of the controllers using spearman correlation coefficients:<br>
 > #### Correlation Plots with Spearman Results <br>
-> Size of spin ring: 5 Transfer : Spin-0 to Spin-1
-> Size of spin ring: 5 Transfer : Spin-0 to Spin-2
-> Size of spin ring: 6, Transfer : Spin-0 to Spin-1
-> Size of spin ring: 6, Transfer : Spin-0 to Spin-2
-> Size of spin ring: 6, Transfer : Spin-0 to Spin-3
-
+> Size of spin ring: 5 Transfer : Spin-0 to Spin-1 <br>
+> Size of spin ring: 5 Transfer : Spin-0 to Spin-2 <br>
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-1 <br>
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-2 <br>
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-3 <br>
 > #### Individual Controllers <br>
-> Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 51
-> Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1
-> Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 3
-> Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 1
+> Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 51 <br>
+> Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1 <br>
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 3 <br>
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 1 <br>
 
 
 
