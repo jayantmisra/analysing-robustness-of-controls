@@ -52,14 +52,17 @@ layout: default
 > > This particular controller is an example of how controllers with slightly lower fidelity tend to be more robust than controllers with high fidelity.
 > 
 > > ![](assets/results/50151.png ) ![](assets/results/50151s.png)
+> 
 > ###### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1 <br>
 > > This particular controller is an example of how controllers with very high fidelity tend to be very sensitive to noise.
 > 
 > > ![](assets/results/50101.png) ![](assets/results/50101s.png)
+> 
 > ###### Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 3 <br>
 > > This controller is an example of how some controllers with high fidelity are also very robust.
 > 
 > > ![](assets/results/60303.png) ![](assets/results/60303s.png)
+> 
 > ###### Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 1 <br>
 > > In this controller, we can see how there is a symmetry in logsensitivities of spins and couplings. This maybe be a part of our future work.
 > 
