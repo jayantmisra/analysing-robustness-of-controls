@@ -51,7 +51,7 @@ layout: default
 > ###### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 51 <br>
 > > This particular controller is an example of how controllers with slightly lower fidelity tend to be more robust than controllers with high fidelity.
 > 
-> > ![](assets/results/50151.png) ![](assets/results/50151s.png)
+> > ![](assets/results/50151.png ) ![](assets/results/50151s.png)
 > ###### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1 <br>
 > > This particular controller is an example of how controllers with very high fidelity tend to be very sensitive to noise.
 > 
