@@ -81,7 +81,6 @@ layout: default
 > 
 > > ![](assets/results/60301.png) ![](assets/results/60301s.png)
   
-</details>
 
 ### Conclusion
 
