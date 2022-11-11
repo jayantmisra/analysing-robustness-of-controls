@@ -23,9 +23,11 @@ layout: default
 ## Contents of the Poster
 
 ### Background
+<details>
 > Quantum technologies have very promising applications in networking, simulation, sensing and computing. However, decoherence, arising from unwanted interactions of a device with environment, and fabrication and control signal uncertainties present a particular challenge for Noisy Intermediate Scale Quantum devices. There are two popular ways to mitigate noise and errors and achieve fault tolerance: Error correction/mitigation algorithms and Robust Quantum Control solutions. Error Correction algorithms and Quantum Control solutions are two complementary approaches used to tackle the problem of noise in Quantum technologies. <br>
 > Quantum Control deals with the study of how the classical world interacts with quantum systems and optimization of these quantum systems to enable useful performance in information processing, sensing and metrology. In this project we work on analysing robust quantum controllers for information transfer in quantum spin-1/2 networks.
-
+</details>
+  
 ### Aim
 > The aim of this project is to investigate the robustness of the controls schemes achieved from previous gradient-based optimization experiments computationally by calculating the log-sensitivity of the controllers w.r.t. structured perturbations: delta*S, with structure S and the strength of the perturbation ‘delta’.
 
