@@ -49,13 +49,13 @@ layout: default
 > ![](assets/results/604.png)
 > #### Individual Controllers <br>
 > ##### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 51 <br>
-> ![](assets/results/50151.png) | ![](assets/results/50151s.png)
+> | ![](assets/results/50151.png) | ![](assets/results/50151s.png) |
 > ##### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1 <br>
-> ![](assets/results/50101.png) | ![](assets/results/50101s.png)
+> | ![](assets/results/50101.png) | ![](assets/results/50101s.png) |
 > ##### Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 3 <br>
-> ![](assets/results/60303.png) | ![](assets/results/60303s.png)
+> | ![](assets/results/60303.png) | ![](assets/results/60303s.png) |
 > ##### Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 1 <br>
-> ![](assets/results/60301.png) | ![](assets/results/60301s.png)
+> | ![](assets/results/60301.png) | ![](assets/results/60301s.png) |
 
 
 
