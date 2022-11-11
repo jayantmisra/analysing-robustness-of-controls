@@ -46,22 +46,16 @@ layout: default
 > ##### Size of spin ring: 6, Transfer : Spin-0 to Spin-2 <br>
 > ![](assets/results/602.png)
 > ##### Size of spin ring: 6, Transfer : Spin-0 to Spin-3 <br>
-> ![](assets/results/604.png)
+> ![](assets/results/603.png)
 > #### Individual Controllers <br>
 > ##### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 51 <br>
-> |<img src="assets/results/50151.png">|<img src="assets/results/50151s.png">|
-> |:----------------------------------:|:-----------------------------------:|
+> ![](assets/results/50151.png) ![](assets/results/50151s.png)
 > ##### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1 <br>
-> |<img src="assets/results/50101.png">|<img src="assets/results/50101s.png">|
-> |:----------------------------------:|:-----------------------------------:|
+> ![](assets/results/50101.png) ![](assets/results/50101s.png)
 > ##### Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 3 <br>
-> |<img src="assets/results/60303.png">|<img src="assets/results/60303s.png">|
-> |:----------------------------------:|:-----------------------------------:|
+> ![](assets/results/60303.png) ![](assets/results/60303s.png)
 > ##### Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 1 <br>
-> |<img src="assets/results/60301.png">|<img src="assets/results/60301s.png">|
-> |:----------------------------------:|:-----------------------------------:|
-
-
+> ![](assets/results/60301.png) ![](assets/results/60301s.png)
 
 
 ### Conclusion
