@@ -15,7 +15,7 @@ layout: default
 ## Poster
 <!-- > ![Poster](assets/poster-png.png) -->
 
-> <object data="assets/poster-pdf.pdf" type="application/pdf" height="75%" width="100%"></object>
+> <object data="assets/poster-pdf.pdf" type="application/pdf" height="750" width="1000"></object>
 
 > Download [Poster](assets/poster-pdf.pdf)[A1].
 
