@@ -84,8 +84,8 @@ layout: default
 </details>
 
 ### Conclusion
-<details>
-  
+
+
 > - The Spearman Correlation coefficient for our data ranges from 0.26 to 0.87 which demonstrates that there is some statistical dependence between transfer fidelity and log-sensitivity. 
 > - We know that very high fidelity controllers are also very sensitive, but if the fidelity of the controllers is a bit lower, they are not very sensitive anymore.
 > - The couplings which are involved in the transfer of information are highly sensitive to noise.
