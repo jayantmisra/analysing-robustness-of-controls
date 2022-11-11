@@ -49,7 +49,9 @@ layout: default
 > ![](assets/results/604.png)
 > #### Individual Controllers <br>
 > ##### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 51 <br>
+> |:----------------------------------:|:-----------------------------------:|
 > |<img src="assets/results/50151.png">|<img src="assets/results/50151s.png">|
+> |:----------------------------------:|:-----------------------------------:|
 > ##### Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1 <br>
 > |<img src="assets/results/50101.png">|<img src="assets/results/50101s.png">|
 > ##### Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 3 <br>
