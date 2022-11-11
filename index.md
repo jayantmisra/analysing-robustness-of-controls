@@ -35,8 +35,21 @@ layout: default
 > - For the next part, we analysed the structure of the spin rings by calculating the log-sensitivity of the fidelity curve for each spin and coupling individually w.r.t. structured perturbation for delta(0 - 0.1).
 
 ### Results
-#### Correlation Plots with Spearman Results
-#### Individual Controllers
+> In the project, we looked through spin rings of size 5 and 6, considering the transfer of information from spin 1 to 2,3 (for 5-spins) and spin 1 to 1,2,3 (for 6-spins). Following plots show the statistical dependence of the transfer fidelity and log sensitivity of the controllers using spearman correlation coefficients:<br>
+> #### Correlation Plots with Spearman Results <br>
+> Size of spin ring: 5 Transfer : Spin-0 to Spin-1
+> Size of spin ring: 5 Transfer : Spin-0 to Spin-2
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-1
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-2
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-3
+
+> #### Individual Controllers <br>
+> Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 51
+> Size of spin ring: 5, Transfer : Spin-0 to Spin-1, Controller: 1
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 3
+> Size of spin ring: 6, Transfer : Spin-0 to Spin-3, Controller: 1
+
+
 
 ### Conclusion
 > - The Spearman Correlation coefficient for our data ranges from 0.26 to 0.87 which demonstrates that there is some statistical dependence between transfer fidelity and log-sensitivity. 
